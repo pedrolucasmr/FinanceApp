@@ -7,10 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
     <Folder Include="Profiles\" />
-    <Folder Include="RepositoriesContracts\" />
-    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 
 </Project>
