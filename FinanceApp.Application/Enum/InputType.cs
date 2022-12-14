@@ -2,6 +2,7 @@
 {
     public enum InputType
     {
+        Undefined,
         Expense,
         Profit
     }
